@@ -34,6 +34,6 @@ e così per gli altri file. Infine serve configurare il percorso del file paths.
 `pathsJsonFileName = “/pathTo/Gestionale_sagra/paths.json”`.
 Il progetto va compilato all’interno della directory GestionaleSagra_qt coi comandi qmake e make.
 Per utilizzare il programma e vedere le 3 interfacce differenti si utilizzino le seguenti credenziali:
-    • username: admin password: **admin**
-    • username:cassiere password: **cassiere**
-    • username:Mario Rossi password: **mario123**
+- username: admin password: **admin**
+- username:cassiere password: **cassiere**
+- username:Mario Rossi password: **mario123**
