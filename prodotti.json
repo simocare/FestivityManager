@@ -1,0 +1,192 @@
+{
+	"prodotti" : 
+	[
+		{
+			"alcool" : true,
+			"allergeni" : null,
+			"caffeina" : true,
+			"nome" : "Coca Cola",
+			"prezzoPorzione" : 12.0,
+			"quantita" : 12.0,
+			"rimanenza" : 12.0,
+			"tipo" : "bevanda",
+			"volume_unit" : 12.0,
+			"zero" : true
+		},
+		{
+			"alcool" : false,
+			"caffeina" : true,
+			"nome" : "Fanta",
+			"prezzoPorzione" : 2.5,
+			"quantita" : 30.0,
+			"rimanenza" : 30.0,
+			"tipo" : "bevanda",
+			"volume_unit" : 0.33000001311302185,
+			"zero" : false
+		},
+		{
+			"allergeni" : null,
+			"nome" : "Costicine",
+			"peso" : 0.20000000298023224,
+			"prezzoPorzione" : 0.0,
+			"quantita" : 40.5,
+			"rimanenza" : 30.0,
+			"tipo" : "pietanza_griglie"
+		},
+		{
+			"nome" : "Salsiccia",
+			"peso" : 0.20000000298023224,
+			"prezzoPorzione" : 5.0,
+			"quantita" : 40.5,
+			"rimanenza" : 40.5,
+			"tipo" : "pietanza_griglie"
+		},
+		{
+			"alcool" : true,
+			"caffeina" : false,
+			"nome" : "Vino",
+			"prezzoPorzione" : 2.0,
+			"quantita" : 100.0,
+			"rimanenza" : 100.0,
+			"tipo" : "bevanda",
+			"volume_unit" : 0.15000000596046448,
+			"zero" : false
+		},
+		{
+			"nome" : "Baccala",
+			"prezzoPorzione" : 10.0,
+			"quantita" : 15.0,
+			"rimanenza" : 15.0,
+			"tipo" : "pietanza_cucina"
+		},
+		{
+			"nome" : "Polenta",
+			"prezzoPorzione" : 3.0,
+			"quantita" : 33.0,
+			"rimanenza" : 33.0,
+			"tipo" : "pietanza_cucina"
+		},
+		{
+			"nome" : "Formaggio Fuso",
+			"peso" : 0.25,
+			"prezzoPorzione" : 5.0,
+			"quantita" : 50.0,
+			"rimanenza" : 50.0,
+			"tipo" : "pietanza_griglie"
+		},
+		{
+			"nome" : "Crauti",
+			"prezzoPorzione" : 5.0,
+			"quantita" : 33.0,
+			"rimanenza" : 33.0,
+			"tipo" : "pietanza_cucina"
+		},
+		{
+			"nome" : "Pasticcio agli asparagi",
+			"prezzoPorzione" : 10.0,
+			"quantita" : 21.0,
+			"rimanenza" : 21.0,
+			"tipo" : "pietanza_cucina"
+		},
+		{
+			"nome" : "Fagioli in salsa",
+			"prezzoPorzione" : 5.0,
+			"quantita" : 12.0,
+			"rimanenza" : 12.0,
+			"tipo" : "pietanza_cucina"
+		},
+		{
+			"nome" : "Sciosi",
+			"prezzoPorzione" : 10.0,
+			"quantita" : 22.0,
+			"rimanenza" : 22.0,
+			"tipo" : "pietanza_cucina"
+		},
+		{
+			"nome" : "Verdure cotte",
+			"prezzoPorzione" : 3.0,
+			"quantita" : 22.0,
+			"rimanenza" : 22.0,
+			"tipo" : "pietanza_cucina"
+		},
+		{
+			"nome" : "Peperoni grigliati",
+			"peso" : 0.20000000298023224,
+			"prezzoPorzione" : 4.0,
+			"quantita" : 23.0,
+			"rimanenza" : 23.0,
+			"tipo" : "pietanza_griglie"
+		},
+		{
+			"alcool" : true,
+			"caffeina" : true,
+			"nome" : "sangue di drago",
+			"prezzoPorzione" : 5.0,
+			"quantita" : 12345.0,
+			"rimanenza" : 123.0,
+			"tipo" : "bevanda",
+			"volume_unit" : 1.0,
+			"zero" : true
+		},
+		{
+			"nome" : "Zucchine Grigliate",
+			"peso" : 0.10000000149011612,
+			"prezzoPorzione" : 2.0,
+			"quantita" : 33.0,
+			"rimanenza" : 33.0,
+			"tipo" : "pietanza_griglie"
+		},
+		{
+			"nome" : "Pollo grigliato",
+			"peso" : 0.20000000298023224,
+			"prezzoPorzione" : 4.0,
+			"quantita" : 30.0,
+			"rimanenza" : 29.0,
+			"tipo" : "pietanza_griglie"
+		},
+		{
+			"nome" : "Funghi",
+			"prezzoPorzione" : 4.0,
+			"quantita" : 10.0,
+			"rimanenza" : 10.0,
+			"tipo" : "pietanza_cucina"
+		},
+		{
+			"nome" : "Pasticcio",
+			"prezzoPorzione" : 6.0,
+			"quantita" : 26.5,
+			"rimanenza" : 26.5,
+			"tipo" : "pietanza_cucina"
+		},
+		{
+			"alcool" : true,
+			"caffeina" : false,
+			"nome" : "Birra",
+			"prezzoPorzione" : 2.0,
+			"quantita" : 90.0,
+			"rimanenza" : 12.0,
+			"tipo" : "bevanda",
+			"volume_unit" : 0.20000000298023224,
+			"zero" : true
+		},
+		{
+			"nome" : "Carne allo spiedo",
+			"peso" : 0.5,
+			"prezzoPorzione" : 11.0,
+			"quantita" : 44.0,
+			"rimanenza" : 41.0,
+			"tipo" : "pietanza_griglie"
+		},
+		{
+			"alcool" : false,
+			"caffeina" : false,
+			"nome" : "Lemon",
+			"prezzoPorzione" : 3.0,
+			"quantita" : 12.0,
+			"rimanenza" : 12.0,
+			"tipo" : "bevanda",
+			"volume_unit" : 0.20000000298023224,
+			"zero" : false
+		}
+	]
+}
