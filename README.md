@@ -1,5 +1,5 @@
-# GestionaleSagra
-"Gestionale Sagra" è un'applicazione desktop multifunzionale progettata per semplificare la gestione di sagre ed eventi simili. L'interfaccia unificata consente all'amministratore di gestire il catalogo dei prodotti, regolare le quantità, i prezzi, aggiungere nuovi prodotti, come bevande, piatti della cucina o grigliate, ogni tipo con parametri specifici che ne descrivono le caratteristiche particolari.
+# FestivityManager
+"FestivityManager" è un'applicazione desktop multifunzionale progettata per semplificare la gestione di sagre ed eventi simili. L'interfaccia unificata consente all'amministratore di gestire il catalogo dei prodotti, regolare le quantità, i prezzi, aggiungere nuovi prodotti, come bevande, piatti della cucina o grigliate, ogni tipo con parametri specifici che ne descrivono le caratteristiche particolari.
 Inoltre, l'amministratore ha la possibilità di creare il menu selezionando i prodotti dal catalogo e gestire il personale assegnando ruoli "cameriere" o "distributore" agli utenti lavoratori; inoltre ha una panoramica sulle comande esistenti, con dettagli quali “cameriere”, “distributore”, prodotti inclusi e prezzi totali.
 Per maggiore chiarezza: un distributore si occupa della preparazione dell’ordine, mentre un cameriere della consegna ai clienti.
 Per i cassieri, l'applicazione offre un'interfaccia dedicata per creare comande, assegnare camerieri e distributori e aggiungere o rimuovere prodotti. Il cassiere può visualizzare l'ordine completo con i dettagli dei prodotti, le quantità e il prezzo totale.
